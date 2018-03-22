@@ -1,0 +1,21 @@
+Circuit: * C:\Users\lapsha\Desktop\analog\lab2\2t\Draft1.asc
+
+.OP point found by inspection.
+
+Date: Thu Mar 22 21:30:26 2018
+Total elapsed time: 0.062 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2103
+traniter = 2103
+tranpoints = 1050
+accept = 1050
+rejected = 0
+matrix size = 8
+fillins = 0
+solver = Normal
+Matrix Compiler1:      19 opcodes  0.2/[0.1]/0.1
+Matrix Compiler2: 574 bytes object code size  0.1/0.2/[0.1]
+
