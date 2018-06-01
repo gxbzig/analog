@@ -1,0 +1,8 @@
+* C:\Users\lapsha\Desktop\analog\laba3\3\Draft2.asc
+L1 N001 0 15.3m
+R1 P001 P002 10k
+C1 N001 P001 12.3n
+V1 P002 0 SINE(0 1 200k)
+.tran 20u
+.backanno
+.end
